@@ -20,7 +20,7 @@ Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
 
 **Tampilan Setelah Pendaftaran Berhasil**
 *(Letakkan screenshot tampilan setelah berhasil submit data di sini)*
-![Tampilan Sukses](link_ke_screenshot_anda_2.png)
+<img width="671" height="379" alt="image" src="https://github.com/user-attachments/assets/890ea5ef-067c-44ff-84a8-806c3ce4caa8" />
 
 **Contoh Pesan Error Validasi**
 *(Letakkan screenshot tampilan saat ada error validasi di sini)*
