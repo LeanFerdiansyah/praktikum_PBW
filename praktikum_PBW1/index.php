@@ -6,7 +6,7 @@
 
 // KONSEP: CONSTANT
 // Constant digunakan untuk nilai yang tidak akan pernah berubah.
-define('NAMA_EVENT', 'Belajar PHP-in 2025');
+define('NAMA_EVENT', 'Belajar PHP 2025');
 define('FILE_PENDAFTARAN', 'pendaftar.txt');
 
 // KONSEP: GLOBAL VARIABLE
