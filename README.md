@@ -24,3 +24,4 @@ Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
 *(Letakkan screenshot tampilan saat ada error validasi di sini)*
 <img width="972" height="623" alt="image" src="https://github.com/user-attachments/assets/54cf14f3-07e2-43b6-a964-f9c353cb2724" />
 
+# Praktikum 2: Aplikasi PHP Dasar - Form Pendaftaran Event
